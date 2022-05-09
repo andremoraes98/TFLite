@@ -38,7 +38,7 @@ public class BorderedText {
    * @param textSize text size in pixels
    */
   public BorderedText(final float textSize) {
-    this(Color.WHITE, Color.BLACK, textSize);
+    this(Color.RED, Color.GREEN, textSize);
   }
 
   /**
